@@ -12,12 +12,12 @@ Exercício HTML - Cinema - Curso 🐺 Origamid
 4.2 - Adicionar título de nível 1 com o nome do estado.
 4.3 - Adicionar os seguintes parágrafos (cada filme é um parágrafo):
 
-(Rio de Janeiro)
+(Rio de Janeiro) - [Nesta parte optei por escolher filmes aleatórios]
 Lisbela e o Prisioneiro - 20:00 - Hoje
 Meu nome não é Jhonny - 21:00 - Hoje
 O Cheiro do ralo - 15:00 - Amanhã
 
-(São Paulo)
+(São Paulo) - [Nesta parte optei por escolher filmes aleatórios]
 Lisbela e o Prisioneiro - 20:00 - Hoje
 Meu nome não é Jhonny - 21:00 - Amanhã
 O Cheiro do ralo - 15:00 - Amanhã
