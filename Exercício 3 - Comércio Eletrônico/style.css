@@ -1,0 +1,38 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    margin-top: 2px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.preco {
+    color:blueviolet;
+    font-weight: bold;
+}
+
+.comprar {
+    background-color: #a8f;
+    color: #103;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.item {
+    background: #f7f7f7;
+    border: 1px solid #e7e7e7;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 4px;
+}
