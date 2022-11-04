@@ -1,6 +1,6 @@
 Aqui criei um site chamado Bickraft utilizando apenas HTML e CSS.
 
-Especificações: 
+# Especificações: 
 
 # Cores
 
